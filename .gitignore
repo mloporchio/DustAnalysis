@@ -1,1 +1,4 @@
 .DS_Store
+*.class
+data/transactions_dust
+data/transactions_dust_nosd
