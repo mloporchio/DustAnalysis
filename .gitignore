@@ -1,10 +1,5 @@
 .DS_Store
 .ipynb_checkpoints/
 *.class
-data/txs_dust
-data/txs_dust_nosd
-data/txs_dust_nosd_class.csv
-data/txs_dust_nosd_inputs.csv
-data/txs_dust_nosd_outputs.csv
-data/addrId2Hash.csv
-data/txId2Hash.csv
+data/
+pictures/

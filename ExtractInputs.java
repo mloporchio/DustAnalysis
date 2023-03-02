@@ -4,8 +4,8 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 
 /**
- *  This class can be used to parse the Bitcoin data set and
- *  create a CSV file containing information about <strong>all</strong> TX inputs.
+ *  This program reads a list of Bitcoin transactions and
+ *  creates a CSV file containing information about their inputs.
  *
  *  Each row of the output file has the following structure:
  *  
