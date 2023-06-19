@@ -12,4 +12,4 @@ Due to space constraints, all data needed to execute the experiments is availabl
 
 ## References
 
-1. Loporchio, Matteo, et al. "Is Bitcoin gathering dust? An analysis of low-amount Bitcoin transactions." Currently under review.
+1. Loporchio, Matteo, et al. "Is Bitcoin gathering dust? An analysis of low-amount Bitcoin transactions." Applied Network Science 8.1 (2023): 1-28.
